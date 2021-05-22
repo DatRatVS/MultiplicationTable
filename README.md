@@ -1,4 +1,6 @@
-# MultiplicationTable
+# MultiplicationTable - My entry at Code's Moon Technologies' Event.
+[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](  https://discord.gg/XpTWUy72Cq)
+
 Adds a command to your Minecraft server that prints the multiplication table for the specific number that you choose.
 
 ## Preview
