@@ -1,0 +1,12 @@
+name: Multiplicationtable
+version: 1.1.1
+main: datrat.multiplicationtable.multiplicationTableMain
+api-version: 1.16
+authors: [ DatRat ]
+description: Adds a command to your Minecraft server that prints the multiplication table for the specific number that you choose.
+website: https://datratvs.github.io
+
+commands:
+  multiply:
+    usage: /multiply (number)
+    description: Multiplies a number.
